@@ -14,7 +14,7 @@ load("secret.star", "secret")
 load("time.star", "time")
 
 CTA_ARRIVAL_URL = "http://lapi.transitchicago.com/api/1.0/ttarrivals.aspx"
-CTA_API_KEY_ENCRYPTED = "AV6+xWcEy0aq3L+XsSlftGr+3M9WAeYYRCvdZVV4IhA7geAcFIuA5ff/mRN+8bn6A2buqsZQvojzchfCQ+gI9Ig/uPXKv/+P1+EbPWChzTDg25SuhW8wsDGoKNaT70/dFt+tw5fNmnI/+3bOQPPup47BCNJa6f2EFiq53lJHAsiGw+/GN40="
+CTA_API_KEY_ENCRYPTED = "AV6+xWcELbih+T/00GIGkmFH3sopxrsAqzeCItxZTPGmlCZbB2BSE13mwVFSTelW2aZ/AEaGPCTovf3OkVuFKGdkbSWElxzQqN87HVNVSIC047ITpew7amAOk1KZaPZxyZACCQtl9/OUZQyuZJ3/+VSh11/TLJlc1mfhihTfCuNi4DQPwg4="
 
 CTA_L_STATON_LIST_URL = "https://data.cityofchicago.org/resource/8pix-ypme.json"
 
